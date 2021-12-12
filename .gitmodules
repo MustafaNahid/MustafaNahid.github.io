@@ -1,0 +1,3 @@
+[submodule "excursion"]
+	path = excursion
+	url = http://github.com/MustafaNahid/excursion
